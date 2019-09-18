@@ -5,7 +5,7 @@ build-tools: https://dl.google.com/android/repository/build-tools_r28.0.3-window
 android-gradle-plugin: https://dl.google.com/android/studio/plugins/android-gradle/preview/offline-android-gradle-plugin-preview.zip  
 gmaven: https://dl.google.com/android/studio/maven-google-com/stable/offline-gmaven-stable.zip  
 
-## android studio 3.3.1
+## android studio 3.3.2
 gradle: https://services.gradle.org/distributions/gradle-4.10.1-all.zip  
 
 ## android studio 3.4.2
@@ -13,6 +13,9 @@ gradle: https://services.gradle.org/distributions/gradle-5.1.1-all.zip
 
 ## android studio 3.5
 gradle: https://services.gradle.org/distributions/gradle-5.4.1-all.zip  
+
+## android studio archieves
+https://developer.android.com/studio/archive  
   
 ## ndk repos
 https://dl.google.com/android/repository/android-ndk-r10e-windows-x86_64.zip  
