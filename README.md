@@ -1,6 +1,7 @@
 # android-dev
 ## common
-ndk-r19: https://dl.google.com/android/repository/android-ndk-r19-windows-x86_64.zip  
+ndk-r10e-linux: https://dl.google.com/android/repository/android-ndk-r10e-linux-x86_64.zip
+ndk-r19-win: https://dl.google.com/android/repository/android-ndk-r19-windows-x86_64.zip  
 build-tools: https://dl.google.com/android/repository/build-tools_r28.0.3-windows.zip  
 android-gradle-plugin: https://dl.google.com/android/studio/plugins/android-gradle/preview/offline-android-gradle-plugin-preview.zip  
 gmaven: https://dl.google.com/android/studio/maven-google-com/stable/offline-gmaven-stable.zip  
