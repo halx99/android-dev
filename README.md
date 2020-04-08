@@ -1,4 +1,7 @@
 # android-dev
+## adt-bundle-windows
+https://dl.google.com/android/adt/adt-bundle-windows-x86_64-20140702.zip?utm_source=androiddevtools&utm_medium=website
+
 ## build-tools
 28.0.3: https://dl.google.com/android/repository/build-tools_r28.0.3-windows.zip  
 
