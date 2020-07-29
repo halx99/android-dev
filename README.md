@@ -2,32 +2,32 @@
 ## adt-bundle-windows
 https://dl.google.com/android/adt/adt-bundle-windows-x86_64-20140702.zip?utm_source=androiddevtools&utm_medium=website
 
-## build-tools
-28.0.3: https://dl.google.com/android/repository/build-tools_r28.0.3-windows.zip  
+## android studio
+* v4.0.1: https://redirector.gvt1.com/edgedl/android/studio/install/4.0.1.0/android-studio-ide-193.6626763-windows.exe
+* archieves: https://developer.android.com/studio/archive  
 
-## gradle plugin
+## gradle, can be install by android-studio
+gradle: https://services.gradle.org/distributions/gradle-{revision}-all.zip  
+
+## build-tools, can be install by android-studio
+build-tools: https://dl.google.com/android/repository/build-tools_r{revision}-windows.zip  
+
+## ndk repos, can be install by android-studio
+* direct links
+  - windows: https://dl.google.com/android/repository/android-ndk-{revision}-windows-x86_64.zip  
+  - linux: https://dl.google.com/android/repository/android-ndk-{revision}-linux-x86_64.zip  
+* webpage
+  - latest: https://developer.android.google.cn/ndk/downloads
+  - older: https://developer.android.google.cn/ndk/downloads/older_releases
+
+## ninja
+The cmake in android-studio may contains ninja, if you install cmake by your self,  
+you may need download at https://github.com/ninja-build/ninja/releases, and copy to directory of cmake.exe
+
+## gradle plugin, can be install by android-studio
 https://dl.google.com/android/studio/plugins/android-gradle/preview/offline-android-gradle-plugin-preview.zip  
-## gmaven offline: 
+
+## gmaven offline, can be install by android-studio
 https://dl.google.com/android/studio/maven-google-com/stable/offline-gmaven-stable.zip  
 
-## android studio 3.3.2
-gradle: https://services.gradle.org/distributions/gradle-4.10.1-all.zip  
 
-## android studio 3.4.2
-gradle: https://services.gradle.org/distributions/gradle-5.1.1-all.zip  
-
-## android studio 3.5
-gradle: https://services.gradle.org/distributions/gradle-5.4.1-all.zip  
-
-## android studio archieves
-https://developer.android.com/studio/archive  
-  
-## ndk repos
-windows: https://dl.google.com/android/repository/android-ndk-${revision}-windows-x86_64.zip  
-linux: https://dl.google.com/android/repository/android-ndk-${revision}-linux-x86_64.zip  
-
-## ndk latest
-https://developer.android.google.cn/ndk/downloads
-
-## ndk old release
-https://developer.android.google.cn/ndk/downloads/older_releases
