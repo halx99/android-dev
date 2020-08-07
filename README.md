@@ -53,5 +53,14 @@ allprojects {
 }
 ```
 
+## gradle-wrapper.properties
+```gradle
+distributionBase=GRADLE_USER_HOME
+distributionPath=wrapper/dists
+zipStoreBase=GRADLE_USER_HOME
+zipStorePath=wrapper/dists
+distributionUrl=file:///d:/dev/adt/gradle-5.1.1-all.zip
+```
+
 
 
