@@ -12,6 +12,9 @@ gradle: https://services.gradle.org/distributions/gradle-{revision}-all.zip
 ## build-tools(can be install by android-studio)
 build-tools: https://dl.google.com/android/repository/build-tools_r{revision}-windows.zip  
 
+## Android SDK Platform
+sdk-platform: https://dl.google.com/android/repository/platform-{num}_r{revision}.zip  
+
 ## ndk repos(can be install by android-studio)
 * direct links
   - windows: https://dl.google.com/android/repository/android-ndk-{revision}-windows-x86_64.zip  
