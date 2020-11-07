@@ -19,6 +19,7 @@ sdk-platform: https://dl.google.com/android/repository/platform-{num}_r{revision
 * direct links
   - windows: https://dl.google.com/android/repository/android-ndk-{revision}-windows-x86_64.zip  
   - linux: https://dl.google.com/android/repository/android-ndk-{revision}-linux-x86_64.zip  
+  - darwin: https://dl.google.com/android/repository/android-ndk-{revision}-darwin-x86_64.zip
 * webpage
   - latest: https://developer.android.google.cn/ndk/downloads
   - older: https://developer.android.google.cn/ndk/downloads/older_releases
