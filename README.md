@@ -22,6 +22,7 @@ sdk-platform: https://dl.google.com/android/repository/platform-{num}_r{revision
 * webpage
   - latest: https://developer.android.google.cn/ndk/downloads
   - older: https://developer.android.google.cn/ndk/downloads/older_releases
+* googlesource url: https://android.googlesource.com/platform/prebuilts/ndk
 
 ## ninja
 The cmake in android-studio may contains ninja, if you install cmake by your self,  
