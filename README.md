@@ -20,6 +20,10 @@ sdk-platform: https://dl.google.com/android/repository/platform-{num}_r{revision
   - windows: https://dl.google.com/android/repository/android-ndk-{revision}-windows-x86_64.zip  
   - linux: https://dl.google.com/android/repository/android-ndk-{revision}-linux-x86_64.zip  
   - darwin: https://dl.google.com/android/repository/android-ndk-{revision}-darwin-x86_64.zip
+* direct links r23+
+  - windows: https://dl.google.com/android/repository/android-ndk-{revision}-windows.zip  
+  - linux: https://dl.google.com/android/repository/android-ndk-{revision}-linux.zip  
+  - darwin: https://dl.google.com/android/repository/android-ndk-{revision}-darwin.zip
 * webpage
   - latest: https://developer.android.google.cn/ndk/downloads
   - older: https://developer.android.google.cn/ndk/downloads/older_releases
